@@ -1,0 +1,15 @@
+GET /umamusume/%E9%A6%96%E9%A1%B5 HTTP/1.1
+Host: wiki.biligame.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Referer: https://wiki.biligame.com/umamusume/%E9%A6%96%E9%A1%B5
+Cookie: gamecenter_wiki__session=nigk7ths1ou4bfolg53tdncngqts6hms; gamecenter_wiki_UserID=1288454; gamecenter_wiki_UserName=205202958; gamecenter_wiki_UserGroups=bilibili; b_nut=1721455233; buvid3=E829A2B7-8D40-4510-791C-49D9932DC27032923infoc; buvid4=2CBE94F1-C5E5-F010-EA1E-C4CCA30BE78C09194-024072015-yqAhDNamHVLM1sW%2FuULGhw%3D%3D; buvid_fp=484826d435de0da50ec9b46615d69c4a; Hm_lvt_cb50e488eca598646f26b3bf09b83ada=1721455237; b_lsid=B29AD5810_190D09D64BE; bsource=search_baidu; Hm_lpvt_cb50e488eca598646f26b3bf09b83ada=1721489708; HMACCOUNT=08CCA7AEA63DF746; SESSDATA=8da37548%2C1737040111%2C73ba2%2A71CjD7wge8T_TvunASU5vc4aSmXzC1ZN5V2QCcq_jS7Y0wKJHlANNaD6XR6YW3ZxDQseoSVnhiZUYxYXNxXzRHaDVNcnphdXktcFFXc3FGS0QtMFo2ZDIwcmo0MzhPOXJudDJtdnFCYkRJaTRtaTJFZ3VwX0MxYTlndmVNRGs0c21XTC1fNW1UeVh3IIEC; bili_jct=03c7a9dbbdc07cefe7c6324c99a0a430; DedeUserID=205202958; DedeUserID__ckMd5=a8ae6b6ee3df3969; sid=gaotrw9g
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i

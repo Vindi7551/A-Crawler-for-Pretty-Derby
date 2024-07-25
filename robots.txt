@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /*skins*
+Disallow: /*index.php?*
+Disallow: /*File:*
+Disallow: /*User*
+Disallow: /*MediaWiki:*
+Disallow: /*load.php?*
+Disallow: /%e6%96%87%e4%bb%b6:*
+Disallow: /*%e6%96%87%e4%bb%b6:*
+Disallow: /*%e6%a8%a1%e6%9d%bf:*
+Disallow:/wdjs
+Disallow:/hl
+Disallow:/nxxy
+Disallow:/qxz
+Disallow:/wap
+Disallow:/mc
+Disallow:/yanyujianghu
